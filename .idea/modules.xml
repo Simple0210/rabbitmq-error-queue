@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-error-queue/consumer-error-queue.iml" filepath="$PROJECT_DIR$/consumer-error-queue/consumer-error-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/error-queue-app.iml" filepath="$PROJECT_DIR$/.idea/error-queue-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-error-queue/producer-error-queue.iml" filepath="$PROJECT_DIR$/producer-error-queue/producer-error-queue.iml" />
+    </modules>
+  </component>
+</project>
